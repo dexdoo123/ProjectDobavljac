@@ -1,2 +1,2 @@
 # ProjectDobavljac
-Ovo je readMe fajl
+Ovo je readMe u drugoj grani.
